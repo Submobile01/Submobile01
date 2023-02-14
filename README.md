@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Submobile01
+- 👋 Hi, I’m @Submobile01, Roger Jiang
 - 👀 I’m interested in games/algorithms
 - 🌱 I’m currently learning machine learning and algorithms
 - 💞️ I’m looking to collaborate on N/A
